@@ -95,10 +95,9 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+```
 </code></pre>
-<pre><code>
-```text
-~~~md
+<pre class=" language-text"><code class="prism  language-text">~~~md
 **bold**, _italic_
 `code`, ~strike~
 em***bold***en
