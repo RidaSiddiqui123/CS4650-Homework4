@@ -16,7 +16,7 @@ Also, everything you need is at <a href="https://bit.ly/beyondcode-markdown">htt
 <thead>
 <tr>
 <th>Site/App</th>
-<th>Def</th>
+<th>Logo</th>
 </tr>
 </thead>
 <tbody>
