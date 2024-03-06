@@ -103,8 +103,8 @@ em***bold***en
 </code></pre>
 <h2 id="reminder">Reminder</h2>
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Get logos</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Check spacing, styles, syntax, etc</li>
+<li>[  ] Get logos</li>
+<li>[  ] Check spacing, styles, syntax, etc</li>
 </ul>
 <h2 id="link-resources">🔗 Resources</h2>
 <h3 id="images">Images</h3>
