@@ -5,7 +5,7 @@
 
 <h2 id="markdown-challenge">Markdown Challenge</h2>
 <p><img src="https://codekitapp.com/images/help/free-markdown-icon@2x.png" alt=""></p>
-<p>Welcome to the <a href="https://beyondcodebootcamp.com">https://beyondcodebootcamp.com</a> Markdown Challenge!<br>
+<p>Welcome to the  <a href="https://beyondcodebootcamp.com">https://beyondcodebootcamp.com</a> Markdown Challenge!<br>
 Your mission, if you choose to accept it is to recreate <em>this</em> document, exactly, using only Markdown and  <a href="http://gist.github.com"> <strong>gist</strong>.github.com</a><br>
 <em><strong>Hint</strong></em>: Read this <em>whole</em> thing first. Then recreate it <strong>one</strong> line at a time.<br>
 Also, everything you need is at <a href="https://bit.ly/beyondcode-markdown">https://bit.ly/beyondcode-markdown</a>.</p>
