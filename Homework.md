@@ -89,11 +89,12 @@ than it is to get permission<br>
 	fmt<span class="token punctuation">.</span><span class="token function">Println</span><span class="token punctuation">(</span><span class="token string">"Hello, World!"</span><span class="token punctuation">)</span>
 <span class="token punctuation">}</span>
 </code></pre>
-<pre class=" language-go"><code class="prism  language-go"><span class="token keyword">import</span> <span class="token string">"fmt"</span>
+<pre class=" language-text"><code class="prism  language-text">```go
+import "fmt"
 
-<span class="token keyword">func</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-	fmt<span class="token punctuation">.</span><span class="token function">Println</span><span class="token punctuation">(</span><span class="token string">"Hello, World!"</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span>
+func main() {
+	fmt.Println("Hello, World!")
+}
 </code></pre>
 <pre class=" language-text"><code class="prism  language-text">~~~md
 **bold**, _italic_
